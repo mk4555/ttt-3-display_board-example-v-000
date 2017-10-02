@@ -7,3 +7,6 @@ def display_board
   puts(row)
   puts(divider)
   puts(row)
+end
+
+display_board
